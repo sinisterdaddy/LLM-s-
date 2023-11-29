@@ -1,5 +1,4 @@
 
-
 <h1>Readings on Large Language Models and Generative AI</h1>
 
 <h2>Large Language Models:</h2>
@@ -106,4 +105,69 @@
   </li>
 
   <li>
-    <a href="https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_P
+    <a href="https://hai.stanford.edu/sites/default/files/2023-03/Generative_AI_HAI_Perspectives.pdf">Generative AI: Perspectives from Stanford HAI</a>
+    <p>Read perspectives on generative AI from Stanford University's Human-Centered AI group.</p>
+  </li>
+
+  <li>
+    <a href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf">Generative AI at Work</a>
+    <p>Explore the working paper on generative AI and its applications in various domains.</p>
+  </li>
+
+  <li>
+    <a href="https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/">The future of generative AI is niche, not generalized</a>
+    <p>Discover insights into the future trajectory of generative AI, emphasizing niche applications over generalized use.</p>
+  </li>
+
+  <li>
+    <a href="https://www2.deloitte.com/us/en/pages/consulting/articles/generative-artificial-intelligence.html">The implications of Generative AI for businesses</a>
+    <p>Delve into Deloitte's exploration of the implications of generative AI for businesses.</p>
+  </li>
+
+  <li>
+    <a href="https://www2.deloitte.com/us/en/pages/consulting/articles/responsible-useof-generative-ai.html">Proactive Risk Management in Generative AI</a>
+    <p>Understand the importance of proactive risk management in ensuring the responsible use of generative AI.</p>
+  </li>
+
+  <li>
+    <a href="https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work">How Generative AI Is Changing Creative Work</a>
+    <p>Read the Harvard Business Review article on how generative AI is transforming creative work.</p>
+  </li>
+</ol>
+
+<h2>Additional Resources:</h2>
+
+<ul>
+  <li>
+    <a href="https://research.google/pubs/pub46201/">Attention is All You Need</a>
+    <p>Read the seminal paper introducing the attention mechanism, a crucial component in many language models.</p>
+  </li>
+
+  <li>
+    <a href="https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html">Transformer: A Novel Neural Network Architecture for Language Understanding</a>
+    <p>Explore the foundational blog post introducing the Transformer architecture for language understanding.</p>
+  </li>
+
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#:~:text=Transformers%20were%20introduced%20in%202017,allowing%20training%20on%20larger%20datasets.">Transformer on Wikipedia</a>
+    <p>Learn about the Transformer model, its introduction in 2017, and its impact on training models on larger datasets.</p>
+  </li>
+
+  <li>
+    <a href="https://lukesalamone.github.io/posts/what-is-temperature/">What is Temperature in NLP?</a>
+    <p>Understand the concept of temperature in Natural Language Processing (NLP) through this informative article.</p>
+  </li>
+
+  <li>
+    <a href="https://cloud.google.com/model-garden">Model Garden</a>
+    <p>Explore the Model Garden by Google Cloud, providing a collection of machine learning models and tools.</p>
+  </li>
+
+  <li>
+    <a href="https://ai.googleblog.com/2022/03/auto-generated-summaries-in-google-docs.html">Auto-generated Summaries in Google Docs</a>
+    <p>Learn about the implementation of auto-generated summaries in Google Docs, enhancing document summarization.</p>
+  </li>
+</ul>
+
+</body>
+</html>
